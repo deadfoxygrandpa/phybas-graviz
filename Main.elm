@@ -58,8 +58,8 @@ collageCenter = collageSize / 2
 nodeRadius = 3
 nodesAt = Gr.nodesWithin nodeRadius
 
-colors = { node = { normal = C.blue, hover = C.cyan    }
-         , edge = { normal = C.red,  hover = C.magenta }
+colors = { node = { normal = C.blue, hover = C.lightBlue }
+         , edge = { normal = C.red,  hover = C.lightRed  }
          , collage = rgb 245 245 245
          }
 
